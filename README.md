@@ -17,11 +17,14 @@ A lightweight command-line tool for converting audio files between popular forma
 ## Installation
 
 ### 1. Python Setup
-```bash
-# Clone the repository
-git clone [your-repo-url]
 
-# Install required Python packages
+```bash
+git clone https://github.com/chumphrey-cmd/Audio-Converter.git
+```
+
+### Install required Python packages
+
+```bash
 pip install -r requirements.txt
 ```
 
